@@ -14,4 +14,4 @@ Mod Tanks is a modding framework for the game [Wee Tanks](https://www.weetanks.c
 ...and many more.
 
 ## Downloads
-Heard enough? The downloads are at the top of the page.
+Heard enough? Download it [here](https://github.com/gvenzl/csv2db/releases/latest)
