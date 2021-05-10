@@ -1,8 +1,7 @@
 # Mod Tanks
-Mod Tanks is a modding framework for the game [Wee Tanks](https://www.weetanks.com/).
+Mod Tanks is a modding framework and set of debugging tools for the game [Wee Tanks](https://www.weetanks.com/).
 
 ## It's goal is to...
-
   - Add Quality of Life improvements
   - Fix bugs
   - Add a framework for modding [Wee Tanks](https://www.weetanks.com/)
