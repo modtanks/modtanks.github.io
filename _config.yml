@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 title: Mod Tanks
-description: A modding framework and set of debugging tools for the game Wee Tanks!
+description: Wee Tanks with mod support and useful mods for messing around with the game Wee Tanks via BepInEx. 
 show_downloads: true
-download_link: https://github.com/nonperforming/modtanks/releases
+download_url: https://github.com/nonperforming/ModTanks/releases
