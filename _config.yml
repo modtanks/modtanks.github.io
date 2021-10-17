@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 title: Mod Tanks
 description: A modding framework and set of debugging tools for the game Wee Tanks!
-show_downloads: false
+show_downloads: true
+download_link: https://github.com/nonperforming/modtanks/releases
