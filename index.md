@@ -12,6 +12,6 @@ Mod Tanks is a collection of mods and tools using the power of [BepInEx](https:/
 ...and many more.
 
 ## Downloads
-Heard enough? Download the [latest stable version here](https://github.com/nonperforming/ModTanks/releases/), or download the [latest unstable testing build here](https://github.com/nonperforming/ModTanks/archive/refs/heads/main.zip).
+Heard enough? Download the [latest version here](https://github.com/nonperforming/ModTanks/releases/)
 
 # Happy modding!
