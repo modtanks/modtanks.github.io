@@ -1,5 +1,5 @@
 # Mod Tanks
-Mod Tanks is a modding framework and set of debugging tools for the game [Wee Tanks!](https://www.weetanks.com/)
+Mod Tanks is a collection of mods and tools using the power of [BepInEx](https://github.com/BepInEx/BepInEx) for the game [Wee Tanks!](https://www.weetanks.com/)
 
 ## It's goal is to...
   - Add Quality of Life improvements
